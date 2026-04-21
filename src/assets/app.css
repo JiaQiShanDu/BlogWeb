@@ -1,0 +1,53 @@
+ * {
+    margin: 0;
+    padding: 2;
+}
+body{
+    background-color: #000000;
+}
+
+section{
+    line-height: 1.5;
+}
+main{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;/*方案1*/
+    justify-content: center;
+    background-color: #141414;
+}
+
+footer{
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+}
+header{
+    background-color: #000000;
+    padding: 10px 10px 10px 10px;
+}
+header a{
+    color: #ffffff;
+    text-decoration: none;
+}
+header a:hover{
+    /* text-decoration: underline ; 下划线*/
+    color: #2600ff;
+}
+header li{
+    display: inline;
+    margin-right: 10vw;
+}
+.menu{
+    font-size: 25px;
+    font-weight: 300;
+}
+.title{
+    color: #ffffff;
+    font-size: 90px;
+}
+.description{
+    color: #ffffff;
+    font-size: 20px;
+}
