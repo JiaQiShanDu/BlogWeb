@@ -89,7 +89,7 @@
 
 .menu a:hover,
 .menu a.router-link-active {
-  color: #2600ff;
+  color: #789cd6;
 }
 
 .site-main {

@@ -3,9 +3,10 @@
     <h1>Friend Link</h1>
 
     <div class="link-list">
-      <a href="https://blog.curesky.site/" target="_blank" rel="noreferrer">最最最帅气的二月giegie的博客</a>
-      <a href="https://github.com/allureluoli" target="_blank" rel="noreferrer">最最最suki的二月酱的github</a>
+      <a href="https://blog.curesky.site/" target="_blank" rel="noreferrer">最最最帅气的二月jiejie的博客</a>
+      <a href="https://github.com/allureluoli" target="_blank" rel="noreferrer">最最最suki的萝莉二月酱的github</a>
       <a href="https://club_official_website" target="_blank" rel="noreferrer">G375 CTF TEAM 官网</a>
+      <a href="https://ys.mihoyo.com/?lang=zh-cn" target="_blank" rel="noreferrer">3A大作</a>
     </div>
   </section>
 </template>

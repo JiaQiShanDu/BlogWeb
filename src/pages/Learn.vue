@@ -151,8 +151,8 @@ onMounted(getData)
 }
 
 .refresh-button:hover {
-  color: #2600ff;
-  border-color: #2600ff;
+  color: #789cd6;
+  border-color: #789cd6;
 }
 
 .learn-layout {
@@ -212,7 +212,7 @@ onMounted(getData)
 .article-link:hover,
 .article-link.active {
   background-color: #141414;
-  color: #2600ff;
+  color: #789cd6;
 }
 
 .article-index {

@@ -8,6 +8,8 @@
 </template>
 
 <style scoped>
+
+/* 主页板块 */
 .home-page {
   width: 100%;
   min-height: 100%;
@@ -15,7 +17,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #141414;
+  background-color: #151515;
   text-align: center;
   padding: clamp(28px, 4vw, 48px);
 }
