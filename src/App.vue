@@ -1,9 +1,9 @@
 <template>
-  <router-view />
+  <SiteShell>
+    <router-view />
+  </SiteShell>
 </template>
-<style scoped>
-header{
-    background-color: #000000;
-    padding: 10px 10px 10px 10px;
-}
-</style>
+
+<script setup>
+import SiteShell from '@/components/layout/SiteShell.vue'
+</script>

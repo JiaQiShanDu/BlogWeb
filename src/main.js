@@ -4,7 +4,7 @@ import { createApp } from 'vue'
 import App from './App.vue'
 
 
-import { createMemoryHistory, createRouter } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 
 import AppContentView from './pages/AppContent.vue'
 import LearnView from './pages/Learn.vue'
@@ -18,7 +18,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createMemoryHistory(),
+  history: createWebHistory(),
   routes,
 })
 
